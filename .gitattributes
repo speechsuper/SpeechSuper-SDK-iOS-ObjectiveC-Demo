@@ -1,0 +1,2 @@
+RecorderDemo/evalSDK/libskegn-iphonesimulator.a filter=lfs diff=lfs merge=lfs -text
+RecorderDemo/evalSDK/libskegn-iphoneos.a filter=lfs diff=lfs merge=lfs -text
